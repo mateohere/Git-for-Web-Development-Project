@@ -97,7 +97,10 @@
          push changes back up to github repo
          git push -u mateo-heredia
          submit a pull request 
-          
+
+         Part Two: codepen challenge
+
+         https://codepen.io/mateohere/pen/eYpyxjO?editors=1100 
 
 Stretch Questions
 
